@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nickdymond7
-- 👀 I’m interested in networking and creating.
-- 🌱 I’m new to GitHub and looking forward to  learning and expressing my creativity.
-- 💞️ For collaboration or If you enjoy my work contact me. 
+- 👀 I’m interested in learning, networking and creating.
+- 🌱 I’m new to GitHub and looking forward to developing my skills and expressing my creativity.
+- 💞️ I am working on my certifications. wish me luck.  
 
 
 <!---
